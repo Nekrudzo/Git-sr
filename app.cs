@@ -6,7 +6,7 @@ using System;
     }
        static void Main() {
            Subtract(30, 12)
-           Console.WriteLine("Калькулятор v2.0");
+           Console.WriteLine("Калькулятор v2.0-FINAL");
        }
        Console.WriteLine($"Результат: {Subtract}");
    }
